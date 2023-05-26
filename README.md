@@ -5,18 +5,18 @@ I am a self-taught, junior front-end developer with 2+ years of experience
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-
+a
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-
-
-
-
-
-
-
-
-
-
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
 <!--RECENT_ACTIVITY:end-->

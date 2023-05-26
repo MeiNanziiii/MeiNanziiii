@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Mei 👋
+I am a self-taught, junior front-end developer with 2+ years of experience 
 
-<!--
-**MeiNanziiii/MeiNanziiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My Skills](https://skillicons.dev/icons?i=discord,figma,git,github,html,idea,java,js,md,nextjs,nodejs,supabase,tailwind,vercel,vscode)
 
-Here are some ideas to get you started:
+## Recent Activity
+<!--RECENT_ACTIVITY:last_update-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<!--RECENT_ACTIVITY:start-->
+
+
+
+
+
+
+
+
+
+
+<!--RECENT_ACTIVITY:end-->
